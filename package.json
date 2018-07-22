@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-appdd",
+  "version": "1.0.0",
+  "description": "Liri",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daydoug14/liri-node-appDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daydoug14/liri-node-appDD/issues"
+  },
+  "homepage": "https://github.com/daydoug14/liri-node-appDD#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
